@@ -5,8 +5,12 @@
 - 💀 emo
 - 😍 EU AMO BTS!!!
 - 🔞 Eu sou fujoshi e adoro ler fanfic
-- 😳 Sou uma otome tofinha e 
+- 😳 Sou uma otome fofinha e 
 - 😢 eu danço kpop na sala de casa mas eu danço mal
+- 😭 Eu sempre choro quando os personagens da fanfic dos animes que eu to vendo morrem
+- ❤️ Eu era namorada do Itachi (a gente casou tá)
+- 🥰 Eu me tranco no quarto quando meu pai não quer me dar as coisas
+- 👋 e é isso. Saranghaeyo
 
 <div align="center">
   <a href="https://github.com/PedroVitorCarFerSilva">
