@@ -1,8 +1,6 @@
 ## Meu nome é Fortnite
 - 👋 Eu tenho 13 anos
-- 💔 eu sou sadgirl, 
-- 🌸 babygirl e 
-- 💀 emo
+- 🌸 eu sou sadgirl, babygirl e emo
 - 😍 EU AMO BTS!!!
 - 🔞 Eu sou fujoshi e adoro ler fanfic
 - 😳 Sou uma otome fofinha e 
