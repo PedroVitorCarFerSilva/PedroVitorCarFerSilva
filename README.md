@@ -1,4 +1,6 @@
 ## Eu sou Pedro Vitor
+- Aluno de Informática para internet
+- Buscando sempre aprender mais
 
 <div align="center">
   <a href="https://github.com/PedroVitorCarFerSilva">
