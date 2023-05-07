@@ -1,14 +1,4 @@
-## Meu nome é Fortnite
-- 👋 Eu tenho 13 anos
-- 🌸 eu sou sadgirl, babygirl e emo
-- 😍 EU AMO BTS!!!
-- 🔞 Eu sou fujoshi e adoro ler fanfic
-- 😳 Sou uma otome fofinha e 
-- 😢 eu danço kpop na sala de casa mas eu danço mal
-- 😭 Eu sempre choro quando os personagens da fanfic dos animes que eu to vendo morrem
-- ❤️ Eu era namorada do Itachi (a gente casou tá)
-- 🥰 Eu me tranco no quarto quando meu pai não quer me dar as coisas
-- 👋 e é isso. Saranghaeyo
+## Eu sou Pedro Vitor
 
 <div align="center">
   <a href="https://github.com/PedroVitorCarFerSilva">
@@ -21,7 +11,7 @@
   <img align="center" alt="dó sustenido" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="sites" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="cascatas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <a href="https://quemclickaeviado.blogspot.com"><img align="right" alt="Brasil" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/866402854066847758/1057609464066359416/galvantula_6x.png"></a>
+  <img align="right" alt="Brasil" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/866402854066847758/1057609464066359416/galvantula_6x.png">
 </div>
  
   ##
