@@ -1,5 +1,6 @@
 ## Eu sou Pedro Vitor
 - Aluno de Informática para internet
+- Sei python, c#, html e css
 - Buscando sempre aprender mais
 
 <div align="center">
