@@ -1,7 +1,7 @@
 ## Eu sou Pedro Vitor
-- Aluno de Informática para internet
+- Aluno de Informática para internet no IFRN
 - Sei python, c#, html e css
-- Buscando sempre aprender mais
+- Atualmente aprendendo typescript
 
 <div align="center">
   <a href="https://github.com/PedroVitorCarFerSilva">
@@ -14,14 +14,15 @@
   <img align="center" alt="dó sustenido" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="sites" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="cascatas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Brasil" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/866402854066847758/1057606241062498374/galvantula.gif">
+  <img align="center" alt="tribunal superior" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="right" alt="Brasil" height="150" style="border-radius:50px;" src="https://archives.bulbagarden.net/media/upload/0/00/Spr_5b_596.png">
 </div>
  
   ##
  
 <div> 
   <a href="https://youtube.com/c/josilmarx" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/oRoge_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+  <!---<a href="https://twitter.com/oRoge_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>--->
   <a href="https://www.instagram.com/_josilmar_oficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <!---
 PedroVitorCarFerSilva/PedroVitorCarFerSilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
